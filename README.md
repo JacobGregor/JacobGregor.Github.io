@@ -7,7 +7,7 @@ Reading notes repository for Code Fellows 201 - 401. Use the below table of cont
 
 # Code 201
 ## Table of Contents
-1. Class-01 Reading Notes - Introductory HTML & Javascript
+1. [class-01](class-reading/class-01.md) Reading Notes - Introductory HTML & Javascript
 2. Class-02 Reading Notes - HTML Text, CSS Introduction, and Basic JavaScript Instructions
 3. Class-03 Reading Notes - HTML Lists, CSS Boxes, JS Control Flow
 4. Class-04 Reading Notes - HTML Links, CSS Layout, JS Functions
