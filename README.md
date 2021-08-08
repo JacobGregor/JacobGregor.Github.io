@@ -1,4 +1,4 @@
-# Jacob Gregor Reading Notes Repo
+# Reading Notes Repo
 Reading notes repository for Code Fellows 201 - 401. Use the below table of contents to quickly navitage to a desires topic/section. 
 
 # Code 102
@@ -24,21 +24,4 @@ Reading notes repository for Code Fellows 201 - 401. Use the below table of cont
 14. Class-14b Reading Notes -  What Google Learned About Teams
 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
