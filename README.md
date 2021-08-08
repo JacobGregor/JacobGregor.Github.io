@@ -1,5 +1,5 @@
 # Reading Notes Repo
-Reading notes repository for Code Fellows 201 - 401. Use the below table of contents to quickly navitage to a desires topic/section. 
+Reading notes repository for Code Fellows 201 - 401. Use the below tables of contents to quickly navitage to a desires topic/section. 
 
 # Code 102 Reading Notes
 ## Table of Contents
