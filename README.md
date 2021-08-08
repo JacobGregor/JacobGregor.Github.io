@@ -1,11 +1,11 @@
 # Reading Notes Repo
 Reading notes repository for Code Fellows 201 - 401. Use the below table of contents to quickly navitage to a desires topic/section. 
 
-# Code 102
+# Code 102 Reading Notes
 ## Table of Contents
 1. Tested out of 102! 😎
 
-# Code 201
+# Code 201 Reading Notes
 ## Table of Contents
 1. [class-01](class-reading/class-01.md) Reading Notes - Introductory HTML & Javascript
 2. Class-02 Reading Notes - HTML Text, CSS Introduction, and Basic JavaScript Instructions
