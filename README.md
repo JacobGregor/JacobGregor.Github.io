@@ -1,6 +1,11 @@
-## Code 201 Reading notes
-Reading notes repository for Code Fellows 201 Course. Use the table of contents to quickly navitage to a desires topic/section. 
+# Jacob Gregor Reading Notes Repo
+Reading notes repository for Code Fellows 201 - 401. Use the below table of contents to quickly navitage to a desires topic/section. 
 
+# Code 102
+## Table of Contents
+1. Tested out of 102! 😎
+
+# Code 201
 ## Table of Contents
 1. Class-01 Reading Notes - Introductory HTML & Javascript
 2. Class-02 Reading Notes - HTML Text, CSS Introduction, and Basic JavaScript Instructions
