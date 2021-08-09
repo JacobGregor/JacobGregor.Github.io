@@ -41,7 +41,7 @@ Class vs. ID Attributes
   - meta allow you to supply information about the website used behind the scenes to dictate characteristics for your website. 
   - Escape character reference codes (pg. 193-194)
   
-## **Chapter 17 - "HTML5 Layout"
+## **Chapter 17 - "HTML5 Layout"**
 
 ### **Key Concepts**
 
