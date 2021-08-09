@@ -22,7 +22,7 @@ Author, pg. 21
  
 ## **Chapter 8 - "Extra Markup"**
   
-## **Key Concepts**
+### **Key Concepts**
   
 Tags/Elements covered:
  - Comment Tag: !-- --> *Note: you will need < start tag in order for it to register as a comment tag, but i want it to be visible.. ha.
@@ -42,8 +42,22 @@ Class vs. ID Attributes
   - Escape character reference codes (pg. 193-194)
   
 ## **Chapter 17 - "HTML5 Layout"
+
+### **Key Concepts**
+
+HTML5 Elements:
+
+- Headers & Footers: Exactly as the name suggests, elements that create a main header (top of webpage) and a footer (bottom of webpage)
+- Navigation: the nav element is where we can house our href links. Think of a website with a nav bar that can dfirect you to "about-us", "careers", "profile" with a link that redirects tot he specified location. 
+- Article: Acts as a container within a webpage for stand alone content. Articles can be nested within other articles. **(pg. 435)**
+- Aside: Aside can be used in conjunction with an article element or live globally outside the article element. When the aside element is used within article the content should be related to that of the article. when it is used outside the article element it acts as a container relative to the entire webpage. **(pg. 436)** 
+- Sections: section elements group related content into sections.. Think of a webpage like the new york times. The. ain webpage has multiple headline articles broken into sections on the page. each section contains the article header followed by a snippet of the beggining of the article and finally accompanied by a graphic. So within this section we are able to have article elements, nav elements, headers, ect.. *Note: Section should not be sued as a wrapper for the HTML document, still use a Div to wrap your webpage. **(pg. 437)**
+- DIV: Dont forget the trusty div elements! when in doubt wrap that SH*T in a div. *Note: while learning how to use these elements, we should be able to replace div mostly but its still commonly used. 
+- **Page 445 - 446 provide an example HTML structure using all of these new elements.**
   
-  
+### **Chapter Summary**
+- Revisit the new elements covered in this section. we will use them to replace the DIV element in future Hw assignments im sure of it.. 
+- Using these elements instead of the standard div is just cleaner and clearer code as opposed to a bunch of divs. 
   
   
   
