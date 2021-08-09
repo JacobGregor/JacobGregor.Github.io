@@ -21,7 +21,8 @@ Author, pg. 21
  
 ## **Chapter 8 - "Extra Markup"**
   
-### **Key Concepts**
+## **Key Concepts**
+  
   Tags/Elements covered:
     - Comment Tag: !-- --> *Note: you will need < start tag in order for it to register as a comment tag, but i want it to be visible.. ha.
     - Block Eleements: <h1>, <p>, <ul>, <li> alaways starts on a new line in the browser. 
