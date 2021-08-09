@@ -1,6 +1,6 @@
 # Class-01 Reading Notes
 
-## **Chapter 1 - "Structure"**
+## **HTML Chapter 1 - "Structure"**
 
 ### **Key Concepts:**
 Author, pg. 21
@@ -20,7 +20,7 @@ Author, pg. 21
 -> Key take aways are Tags (Elements) and their structure. <p> </p> tags come in pairs with an opening & cloding tag. 
   
  
-## **Chapter 8 - "Extra Markup"**
+## **HTML Chapter 8 - "Extra Markup"**
   
 ### **Key Concepts**
   
@@ -41,7 +41,7 @@ Class vs. ID Attributes
   - meta allow you to supply information about the website used behind the scenes to dictate characteristics for your website. 
   - Escape character reference codes (pg. 193-194)
   
-## **Chapter 17 - "HTML5 Layout"**
+## **HTML Chapter 17 - "HTML5 Layout"**
 
 ### **Key Concepts**
 
@@ -59,7 +59,54 @@ HTML5 Elements:
 - Revisit the new elements covered in this section. we will use them to replace the DIV element in future Hw assignments im sure of it.. 
 - Using these elements instead of the standard div is just cleaner and clearer code as opposed to a bunch of divs. 
   
-  
+## **HTML Chapter 18 - "Process & Design"**
+
+### **Key Concepts**
+Keep these in mind when designing your website:
+- Whos is the target audience for your website?
+  - Individuals vs. companies?
+- Why is this audience visiting your website? 
+  - Goals & Motivations: Another way to conceptualize this is the "WHY".
+- What are you trying to acheive from visitors to your site? 
+  - This is a bit ambiguous as visits can vary greatly, the concept here is to begin to understand the key reasons visits are occuring and the outcomes.
+- What information are we missing/need to present to visitors?
+  - From here we need to take what we learned from visitors and reasons for visits and make sure we are presenting the apporpriate information to our visitors.
+- How often are we getting recurring visits?
+  - Is our site generating repeated visits? are we generating unique visits? Here we can begin to understanmd how often we need to rotate information on our site.
+- **Site Maps**: We can take all of this information and begin to build our site maps. Similar to a brainstorming or a blueprint. We organize our sight with high level concepts of what information we will need and where. This is the 10k view of our website, just the overarching subjects we will be including.
+- **Wireframes**: Sketch of our website. We use wireframes to make sure all of the information we need to include on our website has a rough idea of spacing and location. We build this out to give us a visual reopresentation of our site map prior to building any code. 
+- **Visual Hierarchy**: Size, Color, Style and Images. The point of visual hierarchy is to create visual contrast and attract the visitor to points of interest on your site you wish ti attract them to. 
+
+### **Chapter Summary**
+1. Understand your target audience
+2. Plan out the core information needed on your site (Site Map)
+3. build a blueprint of your website to make sure all of the relevant information has a place that flows (Wireframe)
+4. Use the concepts of Visual Hierarchy & Groupiong to differentiate key information and attract visitors to popints of interest. 
+
+## **JS Chapter 1 - "The ABC of Programming"**
+
+### **Key Concepts 1/a (Writing a script)**
+- **Script**: (Author pg. 14) 
+> "A script is a series of instructions that a computer can follow to achieve a goal".
+- 3 steps to script writing: Define, Design and Code. 
+  - in order to write a script you must uderstand 2 key concepts. Vocabulary & Syntax. How do computers understand and how do they then take your content and follow those instructions. 
+ 
+ ### **Key concepts 1/b (How do computers communicate)**
+- **Objects**: Like we place an object tag on physical things in our physical world we do the same with objects in the programming world. Think a Keyboard or a mouse, these are both objects. if they were in our code we could also tag these as objects for the code to hold in memory.
+  - **properties**: we can apply properties on our objects, like defining characteristics on real-world objects. These come in the form of names and values.
+- **Events**: Events are exactly how they sound, they are interactions with an object. They may change the properties of an object or trigger an event a function has been listening for and waiting to happen.
+- **Methods**: Methods are how we change the value of properties assigned to objects. Ex. This may increase or decrease a specified value assigned to an object at a given time. 
+- Example of this process: Event (Book room) -> Interact with object (Hotel) -> Method called (makebooking()) -> Adjust object (Hotel) bookings property to reflect a new booking. 
+
+### **Key Concepts 1/c (How to write a script for webpage)
+- How to use Objects & Methods: See final tick from 1/b for a simple action of calling a method. Essentiall we use an abject to call a method() with given parameters (....). 
+- This section breaks down how to create a .js file, how to write an example method w/ if{} else{} and then how to embed the script into an HTML document. 
+
+### **Chapter Summary**
+- We learned how to write a script and hopw to embed a script into our HTML code.
+- We learned abbout Objects, Events and Methods and how these 3 exist with eachother. 
+- We saw examples of how to call a method() and how to embed our .js script into an HTML file. 
+
   
   
   
