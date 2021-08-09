@@ -24,12 +24,12 @@ Author, pg. 21
 ##**Key Concepts**
   
 Tags/Elements covered:
- - Comment Tag: !-- --> *Note: you will need < start tag in order for it to register as a comment tag, but i want it to be visible.. ha.
- - Block Eleements: <h1>, <p>, <ul>, <li> alaways starts on a new line in the browser. 
- - Inline ELements: <a>, <b>, <em>, <img> continue on the same line as their neighboring elements. 
- - **<div> </div>**: Groups elements in one block-level box. <div> should be used to group sections of your web page. Think of <div> as a container whithin which to house other elements that make up the sections of your webpage. <div> are manipulated in CSS to adjust their attributes as they relate to the webpage.
- - **<span> </span>**: <span> is best described as the inline version of a <div>. We can use span to manipulate specific content within elements.
- - Escape Characters: These are the code references for how we use reserved characters. Reference pg 193-194 for a list of escape code references. 
+ -> Comment Tag: !-- --> *Note: you will need < start tag in order for it to register as a comment tag, but i want it to be visible.. ha.
+ -> Block Eleements: <h1>, <p>, <ul>, <li> alaways starts on a new line in the browser. 
+ -> Inline ELements: <a>, <b>, <em>, <img> continue on the same line as their neighboring elements. 
+ -> **<div> </div>**: Groups elements in one block-level box. <div> should be used to group sections of your web page. Think of <div> as a container whithin which to house other elements that make up the sections of your webpage. <div> are manipulated in CSS to adjust their attributes as they relate to the webpage.
+ -> **<span> </span>**: <span> is best described as the inline version of a <div>. We can use span to manipulate specific content within elements.
+ -> Escape Characters: These are the code references for how we use reserved characters. Reference pg 193-194 for a list of escape code references. 
   
 Class vs. ID Attributes
 -> HTML elements can carry an ID & Class attribute. This allows for specific ID's or classes to be called in CSS to manipulate a specific element by ID or elements by a designated class. **ID is used for specific single element designations while class allows for several elements top be identified and manipulated.**
