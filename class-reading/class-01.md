@@ -98,7 +98,7 @@ Keep these in mind when designing your website:
 - **Methods**: Methods are how we change the value of properties assigned to objects. Ex. This may increase or decrease a specified value assigned to an object at a given time. 
 - Example of this process: Event (Book room) -> Interact with object (Hotel) -> Method called (makebooking()) -> Adjust object (Hotel) bookings property to reflect a new booking. 
 
-### **Key Concepts 1/c (How to write a script for webpage)
+### **Key Concepts 1/c (How to write a script for webpage)**
 - How to use Objects & Methods: See final tick from 1/b for a simple action of calling a method. Essentiall we use an abject to call a method() with given parameters (....). 
 - This section breaks down how to create a .js file, how to write an example method w/ if{} else{} and then how to embed the script into an HTML document. 
 
