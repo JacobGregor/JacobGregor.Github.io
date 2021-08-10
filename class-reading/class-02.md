@@ -44,3 +44,62 @@ How CSS hierachy works:
 Example Array: var cats
                cats = [scotty, tom, jerry ]
 -> Arrays start at the Zero for the first variable and go on for Array(Array name here).length -> ex. cats.length = 2
+
+
+## **Chapter 4 - 'Decisions & Loops;**
+
+2 Components of decisions:
+1. and expressions evaluates and then returns a value.
+2. conditionals are met -> do a given command.
+
+**Everything that follows are conditonal statements**
+**(Signs/Operators: Comparison Operators: pg. 150 - 151)**
+
+- === -> both operends must be type strict to be **true**
+- == -> does not need to be type strict to be **true**
+- != -> is not equal to (not type strict)
+- !== -> is not equal to (type strict)
+
+**Comparison operators are made of 2 operands and 1 operator.**
+- Operands do not have to be a single value ( 3 or 'three') we are also able to use stored variables as operends!
+
+**Logical Operators**
+-> Allow you to compare the results of more than one comparison operator
+- && (Logical and) -> both operends must be true or else false
+- || (logical or) -> one operend must be true or else false
+- ! (logical not) -> inverts
+
+**If statements**
+-> evaluates the conditional (which we set in the parameters) and executes **if** the parameters are **true**.
+If...Else statements work the same way except they execute the else code if the parameters set are not true. 
+
+**Switch Statements**
+Switch (...){
+  
+  case 1:
+  name = Jake;
+  break;
+
+  case 2:
+  name = bob;
+  break;
+
+  default:
+  name = a girl has no name;
+  break;
+
+Unlike the If/Else statements a switch statement will run until a value is matched or the default is used in which case it will break; and stop running. Unlike an if/else statement that will continue to run even after a result is found if there are more conditions. 
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
