@@ -37,3 +37,49 @@ Types of Positioning Elements:
 -> Revisit this chapter to help create a nice liquid layout for your AboutMe page. 
 -> pg. 387 -> talk about Grid Layouts and setting up a 'proper page'.
 
+# **Javascript**
+
+## **Chapter 3 - 'Functions, Methods and Objects'**
+###What is a Function?** - Functions group a series of statements together to perform a specific task. We can then **'Call'** these functions later to perform said task rather than repeating the same code. 
+- What we pass through a function are known as `Function(**Parameters**)`
+- What we get out of passing through our **parameters** is known as a **Return Value**. 
+
+### **We call a Function this way:** 
+`function helloWorld() {document.write('Hello World!');
+}`
+- Here we have a **Function Keyword** (function) followed by our **Function Name** (helloWorld()) with an empty parameters field.
+- Inside the **Code Block** we are asking the function to write on the document 'Hello World' whenever we **Call** the function helloWorld().
+
+### **Declaring a function(...)**
+`function helloWorld(onomatopoeia) {
+  return document.write(onomatopoeia + ' Hello World.') -> BANG! Hello World.
+}
+- We **declare** our parameters `function(**Parameters**` in the above example.
+`let width = 3`
+`let height = 5`
+function calcArea(width, height) {
+  return width * height;
+}
+- In this example we have set our **parameters** as 'width` & `height` but by passing through variables that hold the values we are now passing through what we call **Arguments**. 
+
+-> Important examples of functions getting multiple values (width,depth,height) example on (pg. 95)
+
+## Article: '6 reasons for pair programming'
+
+### 'How pair programming works'
+- 'Driver' -> Driver is the programmer with his hands on the keyboard. Driver manages the text editor, switching files, version control.
+- 'Navigator' -> Guides the driver through the inputs but does not write any code themselves. -> navigator can look up documentation, scan for bugs, plan out the algoritm but should never type themselves. 
+- 4 basic skills to learning a language:
+- Listening
+- Speaking
+- Reading
+- Writing
+-> Working in pair programming touches all of these.
+
+6 advantages to pair programming:
+1. Greater efficiency
+2. Engaged collaboration
+3. Learning from fellow students
+4. Social skills
+5. Job Interview Readiness
+6. Work Environment Readiness 
