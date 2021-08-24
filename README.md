@@ -24,4 +24,25 @@ Reading notes repository for Code Fellows 201 - 401. Use the below tables of con
 14. Class-14b Reading Notes -  What Google Learned About Teams
 
 
+Sources Used: 
+Books Used: 
+1. HTML & CSS 'Design and build websites' - Jon Duckett
+2. Javascript & Jquery 'interactive front-end web development' - Jon Duckett
 
+
+Articles Used: 
+
+- Author: SARA VIEIRA Link: https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/
+(Chapter 12 -example script used in Chart.js notes)
+
+- https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage
+(Chapter 12 - Used for Canvas Notes)
+
+-https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
+(Chapter 12)
+
+-https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors
+(chapter 12)
+
+-https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text
+(Chapter 12)
