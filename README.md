@@ -5,23 +5,33 @@ Reading notes repository for Code Fellows 201 - 401. Use the below tables of con
 ## Table of Contents
 1. Tested out of 102! 😎
 
-# Code 201 Reading Notes
+# Code 201 Foundations of Software Development
 ## Table of Contents
-1. [class-01](class-reading/class-01.md) Reading Notes - Introductory HTML & Javascript
-2. [class-02](class-reading/class-02.md) - HTML Text, CSS Introduction, and Basic JavaScript Instructions
-3. [Class-03](class-reading/class-03.md) - HTML Lists, CSS Boxes, JS Control Flow
-4. [Class-04](class-reading/class-04.md) - HTML Links, CSS Layout, JS Functions
-5. Class-05 Reading Notes - HTML Images; CSS Color & Text
-6. Class-06 Reading Notes - JS Object Literals; The DOM
-7. Class-07 Reading Notes - HTML Tables; JS Constructor Functions
-8. Class-08 Reading Notes - More CSS Layout
-9. Class-09 Reading Notes - Forms and Events
-10. Class-10 Reading Notes - JS Debugging
-11. Class-11 Reading Notes - Assorted Topics
-12. Class-12 Reading Notes - Docs for the HTML <canvas> Element & Chart.js
-13. Class-13 Reading Notes - Local Storage
-14. Class-14a Reading Notes - CSS Transforms, Transitions, and Animations
-14. Class-14b Reading Notes -  What Google Learned About Teams
+1. [class-01](class-reading/201/class-01.md) Reading Notes - Introductory HTML & Javascript
+2. [class-02](class-reading/201/class-02.md) - HTML Text, CSS Introduction, and Basic JavaScript Instructions
+3. [Class-03](class-reading/201/class-03.md) - HTML Lists, CSS Boxes, JS Control Flow
+4. [Class-04](class-reading/201/class-04.md) - HTML Links, CSS Layout, JS Functions
+5. Class-05 (class-reading/201/class-05.md) - HTML Images; CSS Color & Text
+6. Class-06 (class-reading/201/class-06.md) - JS Object Literals; The DOM
+7. Class-07 (class-reading/201/class-07.md) - HTML Tables; JS Constructor Functions
+8. Class-08 (class-reading/201/class-08.md) - More CSS Layout
+9. Class-09 (class-reading/201/class-09.md) - Forms and Events
+10. Class-10 (class-reading/201/class-10.md) - JS Debugging
+11. Class-11 (class-reading/201/class-11.md) - Assorted Topics
+12. Class-12 (class-reading/201/class-12.md) - Docs for the HTML <canvas> Element & Chart.js
+13. Class-13 (class-reading/201/class-13.md) - Local Storage
+14. Class-14 (class-reading/201/class-14.md) - CSS Transforms, Transitions, and Animations
+
+
+# Code 301 Intermediate Software Development
+## Table of Contents
+1. [class-01] (class-reading/301/class-01.md) - TBD
+2. [class-02] (class-reading/301/class-02.md) - TBD
+3. [class-03] (class-reading/301/class-03.md) - TBD
+4. [class-04] (class-reading/301/class-04.md) - TBD
+5. [class-05] (class-reading/301/class-05.md) - TBD
+
+
 
 
 Sources Used: 
