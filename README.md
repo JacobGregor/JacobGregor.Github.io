@@ -30,6 +30,13 @@ Reading notes repository for Code Fellows 201 - 401. Use the below tables of con
 3. [class-03](class-reading/301/class-03.md) - TBD
 4. [class-04](class-reading/301/class-04.md) - TBD
 5. [class-05](class-reading/301/class-05.md) - TBD
+6. [class-06](class-reading/301/class-06.md) - TBD
+7. [class-07](class-reading/301/class-07.md) - TBD
+8. [class-08](class-reading/301/class-08.md) - TBD
+9. [class-09](class-reading/301/class-09.md) - TBD
+10. [class-10](class-reading/301/class-10.md) - TBD
+
+
 
 
 
