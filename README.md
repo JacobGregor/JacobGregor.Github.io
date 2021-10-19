@@ -47,7 +47,7 @@ Reading notes repository for Code Fellows 201 - 401. Use the below tables of con
 ## Table of Contents
 
 1. [class-01](class-reading/401/class-01.md) - Node Ecosystem, TDD, CI/CD
-2. [class-02](class-reading/401/class-02.md) - TBD
+2. [class-02](class-reading/401/class-02.md) - Express
 3. [class-03](class-reading/401/class-03.md) - TBD
 4. [class-04](class-reading/401/class-04.md) - TBD
 5. [class-05](class-reading/401/class-05.md) - TBD
