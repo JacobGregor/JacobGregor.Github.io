@@ -54,7 +54,7 @@ Reading notes repository for Code Fellows 201 - 401. Use the below tables of con
 6. [class-06](class-reading/401/class-06.md) - Reading #6
 7. [class-07](class-reading/401/class-07.md) - Reading #7
 8. [class-08](class-reading/401/class-08.md) - Reading #8
-9. [class-09](class-reading/401/class-09.md) - TBD
+9. [class-09](class-reading/401/class-09.md) - Authorization/Authentication
 10. [class-10](class-reading/401/class-10.md) - TBD
 
 Sources Used:
